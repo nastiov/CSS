@@ -112,6 +112,17 @@ a:active{
     font-weight: bolder;
 }
 
+.contTable td {
+    padding: auto;
+}
+.contTable td:nth-child(1){
+    font-weight: bolder;
+}
+.contTable td:nth-child(2){
+    color: #000;
+    font-size: medium;
+}
+
 .link-list {
     list-style: none;
     padding: 0;
