@@ -7,8 +7,8 @@
 
 
 body {
-    background-color: rgba(202, 201, 196, 0.541);
-    color: rgba(27, 27, 27, 0.692);
+    background-color: #fcf9f4a4;
+    color: rgba(17, 17, 17, 0.692);
     
     /*font-size: 16px;
     font-weight: 100;
@@ -70,40 +70,15 @@ a:active{
     margin: auto;
     padding-top: 30px;
 }
-/*  .social {
-    background: blanchedalmond; */
-    /* padding: 15px; */
-    /* padding: 15px 40px; */
-    /* padding: 15px 20px 25px 30px; */
-    /* padding-top: 15px;
-    padding-right: 20px;
-    padding-bottom: 25px;
-    padding-left: 30px;
-
-    border: 5px solid red;
-    border-bottom-style: dotted;
-    border-top-width: 15px;
-    border-right-color: blue;
-
-    margin: 20px;
-}  */
-
-/* .box-model div {
-    background: black;
-    height: 200px;
-    border: 4px solid red;
-    width: 25%;
-    box-sizing: border-box;
-} */
 
 .bg-yellow {
-    background: #fff9dc;
+    background: #F6F6E8;
 }
 .bg-green {
-    background: #e5ffe7;
+    background: #F1F5ED;
 }
 .bg-red {
-    background: #ffe5e5;
+    background: #FAEFE7;
 }
 
 .card {
@@ -190,6 +165,33 @@ a:active{
 .btn:hover {
     opacity: 0.9;
 }
+
+/*  .social {
+    background: blanchedalmond; */
+    /* padding: 15px; */
+    /* padding: 15px 40px; */
+    /* padding: 15px 20px 25px 30px; */
+    /* padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+
+    border: 5px solid red;
+    border-bottom-style: dotted;
+    border-top-width: 15px;
+    border-right-color: blue;
+
+    margin: 20px;
+}  */
+
+/* .box-model div {
+    background: black;
+    height: 200px;
+    border: 4px solid red;
+    width: 25%;
+    box-sizing: border-box;
+} */
+
 
 /* Position */
 /*.position {
